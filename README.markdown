@@ -1,6 +1,5 @@
 # timecop
 
-[![Build Status](https://secure.travis-ci.org/travisjeffery/timecop.svg)](https://coinbase-dev.cbhq.net)
 
 ## DESCRIPTION
 
